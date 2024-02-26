@@ -1,4 +1,4 @@
-# Automatic Pipeline for Classification (using Swin Transformer) and Detection (using RT-DETR) of Bleeding and Non-Bleeding frames in Wireless Capsule Endoscopy
+# Automatic Pipeline for Classification (using Swin Transformer), Detection (using RT-DETR) and Segmentation (using SwinUNETR) of Bleeding and Non-Bleeding frames in Wireless Capsule Endoscopy
 ## About
   - Team name: failed wizards
   - Team member names:
